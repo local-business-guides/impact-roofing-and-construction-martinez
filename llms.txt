@@ -32,6 +32,9 @@
 - [Finding a contractor company near me in Martinez](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/contractor-company-near-me/): Find a contractor company near me for coordinated home projects and practical planning in Martinez, Georgia.
 - [A contractor for bathroom remodel Martinez homeowners can call](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/contractor-for-bathroom-remodel-martinez/): Get practical bathroom project planning from a contractor for bathroom remodel Martinez homeowners can reach in Martinez, Georgia.
 
+## Newsroom
+- [Impact Roofing & Construction Publishes General Contractor Augusta GA Guide](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/news/2026-10-25-impact-roofing-construction-publishes-general-cont/): Impact Roofing & Construction has published a guide, YouTube video, podcast episode and SoundCloud audio version about general contractors in Augusta. (2026-10-25)
+
 ## Pages
 - [General Contractor Augusta GA in Martinez, Georgia](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/): From roofing and additions to kitchen updates, we help Martinez homeowners improve the spaces they rely on. Call +1706-833-6775.
 - [About Impact Roofing & Construction](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/about/): About Impact Roofing & Construction, Martinez.
@@ -39,4 +42,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/impact-roofing-and-construction-martinez/news/rss.xml)
 - [Main resource site](https://impact-construction-martinez.localwebsites.chatgpt.site)
